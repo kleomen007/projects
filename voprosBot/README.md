@@ -1,0 +1,1 @@
+pip install aiogram, requests, aiosqlite, sqlalchemy, apscheduler, environs
